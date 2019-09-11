@@ -12,6 +12,8 @@ Cloud Firestore, the lasted back-end mobile app solution for realtime database
 
 ```swift
 
+    import Firebase
+
     // Done
     func addDataFirestore() {
         var ref: DocumentReference? = nil
