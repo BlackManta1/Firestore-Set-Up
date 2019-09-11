@@ -3,10 +3,10 @@ Cloud Firestore, the lasted back-end mobile app solution for realtime database
 
 ## Let's get to the heart of the matter
 
-3 functions
-1/ How to add data
-2/ How to read data
-3/ How to filter data
+3 functions:
+- [x] 1 - How to add data
+- [x] 2 - How to read data
+- [x] 3 - How to filter data
 
 ### Source Code
 
