@@ -73,3 +73,7 @@ Cloud Firestore, the lasted back-end mobile app solution for realtime database
 
 
 ```
+### Data Structure
+<p align="left">
+<img src="https://user-images.githubusercontent.com/46055179/60755642-7c2a3e00-a003-11e9-9148-6ae27279e91e.jpeg" width="250">
+</p>
